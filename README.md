@@ -54,24 +54,6 @@ Employee-Attendance-Anomaly-Detection/
 
 ---
 
-## 🚀 Getting Started
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/Raj-Kamal-io/Employee-Attendance-Anomaly-Detection.git
-cd Employee-Attendance-Anomaly-Detection
-```
-
-### 2. Install dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Run the notebook
-```bash
-jupyter notebook notebooks/anomaly_detection.ipynb
-```
-
 ---
 
 ## 📊 Sample Output
